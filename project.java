@@ -20,5 +20,6 @@ public class project {
         int a = sv.nextInt();
         System.out.println("Nhap b:");
         int b = sv.nextInt();
+        //Them chuc nang chon phep tinh cho nay
     }
 }
