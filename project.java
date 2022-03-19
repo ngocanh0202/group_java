@@ -2,16 +2,16 @@ import java.util.Scanner;
 
 public class project {
     static int tinhtong(int a, int b){
-
+		return a+b;
     }
     static int tinhhieu(int a,int b){
-
+		return a-b;
     }
     static int tinhtich(int a,int b){
-
+		return a*b;
     }
     static float tinhthuong(int a, int b){//<- thêm ngoặc
-
+		return a/b;
     }
 
     public static void main(String[] args) {
