@@ -11,16 +11,7 @@ public class project {
 
     }
     static float tinhthuong(int a, int b)
-    	int b1 = 0;
-		if(b==0) {
-			do {
-				System.out.println("Nhap lai b :");
-				Scanner objSc = new Scanner(System.in);
-				b1 = objSc.nextInt();
-			}while(b1 == 0);
-			return (float) (a*1.0/b1);
-		}else
-			return (float) ((a*1.0)/b);
+
     }
 
     public static void main(String[] args) {
