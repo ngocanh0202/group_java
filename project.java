@@ -10,7 +10,7 @@ public class project {
     static int tinhtich(int a,int b){
 
     }
-    static float tinhthuong(int a, int b)
+    static float tinhthuong(int a, int b){//<- thêm ngoặc
 
     }
 
